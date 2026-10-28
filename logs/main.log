@@ -1,0 +1,24 @@
+(.venv) PS D:\PythonProjects\documentintelligence> python main.py -w
+
+
+  self.data_adapter = data_adapters.get_data_adapter(
+Epoch 1/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 183s 2s/step - accuracy: 0.9650 - loss: 0.1204   
+Epoch 2/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 73s 868ms/step - accuracy: 0.9989 - loss: 0.0061 
+Epoch 3/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 73s 862ms/step - accuracy: 0.9996 - loss: 0.0030 
+Epoch 4/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 72s 850ms/step - accuracy: 1.0000 - loss: 0.0014     
+Epoch 5/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 73s 864ms/step - accuracy: 1.0000 - loss: 0.0012    
+Epoch 6/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 72s 848ms/step - accuracy: 1.0000 - loss: 9.6093e-04 
+Epoch 7/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 78s 914ms/step - accuracy: 1.0000 - loss: 5.5894e-04 
+Epoch 8/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 76s 894ms/step - accuracy: 1.0000 - loss: 8.7051e-04 
+Epoch 9/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 83s 972ms/step - accuracy: 1.0000 - loss: 3.2988e-04
+Epoch 10/10
+84/84 ━━━━━━━━━━━━━━━━━━━━ 75s 882ms/step - accuracy: 1.0000 - loss: 2.4189e-04 

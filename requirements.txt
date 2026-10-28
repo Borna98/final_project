@@ -1,0 +1,9 @@
+ipykernel
+tensorflow
+Path
+pip
+Numpy
+Pandas
+ipython
+kagglehub
+pdf2image
